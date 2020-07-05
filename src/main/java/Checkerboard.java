@@ -1,5 +1,3 @@
-package org.coursera.learn.csprogrammingjava.week4;
-
 public class Checkerboard {
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
